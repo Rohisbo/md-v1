@@ -1,0 +1,12 @@
+{
+  "name": "Venz-Md",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/Venz17/VenzMd",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "multi-device",
+    "whatsapp-bot"
+  ]
+}
